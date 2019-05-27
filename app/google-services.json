@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501374890341",
+    "firebase_url": "https://hospitalreviewsystem-db3e8.firebaseio.com",
+    "project_id": "hospitalreviewsystem-db3e8",
+    "storage_bucket": "hospitalreviewsystem-db3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501374890341:android:59b29a3a0e5cb055",
+        "android_client_info": {
+          "package_name": "com.example.hospitalreviewsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501374890341-scpp2vlngnalp3fpav2st0j0rc5bitbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospitalreviewsystem",
+            "certificate_hash": "e80d383591c04d7ca0ae49fe4f42e3e54a22c567"
+          }
+        },
+        {
+          "client_id": "501374890341-11u1cjkl5ukt2pflcarp2jabl0g6dqov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCdgnXb6-G9hGnv0tIeo2lW5lU-JpFVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501374890341-11u1cjkl5ukt2pflcarp2jabl0g6dqov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
